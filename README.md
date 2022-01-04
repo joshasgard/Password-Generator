@@ -10,7 +10,7 @@ Use it to generate random passwords for all your accounts without having to rack
 
 ## Libraries
 - Python 3.8x
-- Django
+- Django 4.0
 - Html
 - CSS
 - Bootstrap 4.6X
