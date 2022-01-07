@@ -1,12 +1,18 @@
 <p align="center">
 <h1>
-Password-Generator
+Password Generator
 </h1>
+<a href="https://free-password-generator.herokuapp.com">
+<img src="https://github.com/joshasgard/Password-Generator/blob/master/staticfiles/pwd_gen.PNG"></a>
+</p>
+
+Visit [free password generator app](https://free-password-generator.herokuapp.com) to take it for a spin. 
+
+## Overview
+Password Generator built with Django and html. 
 
 ## Purpose
-Password Generator built with Django and html. 
 Use it to generate random passwords for all your accounts without having to rack your head. 
-
 
 ## Libraries
 - Python 3.8x
