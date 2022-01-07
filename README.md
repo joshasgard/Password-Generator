@@ -20,7 +20,6 @@ Use it to generate random passwords for all your accounts without having to rack
 - Html
 - CSS
 - Bootstrap 4.6X
-- Pillow
 
 ## Credits
 - <a href= "https://github.com/joshasgard"> Author </a> <br>
